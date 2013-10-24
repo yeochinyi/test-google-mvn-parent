@@ -1,0 +1,3 @@
+13:16:32,519 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.8) for API "JDO" using JRE "1.7"
+13:16:32,544 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 0 classes. Timings : input=22 ms, enhance=0 ms, total=22 ms. Consult the log for full details
+13:16:32,544 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed and no classes were enhanced. Consult the log for full details
